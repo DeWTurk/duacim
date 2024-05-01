@@ -264,7 +264,6 @@
 	background:  #dadada  /*{b-bhover-background-color}*/;
 	font-weight: bold;
 	color:  #ffffff  /*{b-bhover-color}*/;
-	text-shadow:  1px  /*{b-bhover-shadow-x}*/   1px   /*{b-bhover-shadow-y}*/  0  /*{b-bhover-shadow-radius}*/  #000000  /*{b-bhover-shadow-color}*/;
 	background-image: -webkit-gradient(linear, left top, left bottom, from(  #4da1e3  /*{b-bhover-background-start}*/), to(  #3169b5  /*{b-bhover-background-end}*/)); /* Saf4+, Chrome */
 	background-image: -webkit-linear-gradient(  #76a965  /*{b-bhover-background-start}*/,  #234219  /*{b-bhover-background-end}*/); /* Chrome 10+, Saf5.1+ */
 	background-image:    -moz-linear-gradient(  #76a965  /*{b-bhover-background-start}*/,  #234219  /*{b-bhover-background-end}*/); /* FF3.6 */
